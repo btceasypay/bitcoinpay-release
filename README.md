@@ -1,2 +1,2 @@
-# Bitcoin Pay official binary releases
+# [Bitcoin Pay](http://www.btceasypay.com/) official binary releases
 
